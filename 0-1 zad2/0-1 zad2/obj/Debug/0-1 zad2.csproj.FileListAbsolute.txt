@@ -1,0 +1,7 @@
+C:\Users\ilymi\source\repos\0-1 zad2\0-1 zad2\bin\Debug\0-1 zad2.exe.config
+C:\Users\ilymi\source\repos\0-1 zad2\0-1 zad2\bin\Debug\0-1 zad2.exe
+C:\Users\ilymi\source\repos\0-1 zad2\0-1 zad2\bin\Debug\0-1 zad2.pdb
+C:\Users\ilymi\source\repos\0-1 zad2\0-1 zad2\obj\Debug\0-1 zad2.csprojAssemblyReference.cache
+C:\Users\ilymi\source\repos\0-1 zad2\0-1 zad2\obj\Debug\0-1 zad2.csproj.CoreCompileInputs.cache
+C:\Users\ilymi\source\repos\0-1 zad2\0-1 zad2\obj\Debug\0-1 zad2.exe
+C:\Users\ilymi\source\repos\0-1 zad2\0-1 zad2\obj\Debug\0-1 zad2.pdb
